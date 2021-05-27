@@ -1,24 +1,67 @@
-
 .centered{
 position: absolute;
-bottom: 300px;
-right: 20px;
+bottom: 800px;
+right: 250px;
 /* background-color: black; */
+/* color: ; */
 color: white;
 padding-left: 20px;
 padding-right: 20px;
 text-align: center;
 /* width: 20%; */
 }
+
 .image{
     position: relative;
     font-family: Arial;
 }
 .img1{
-    opacity: 0.8;
+    
+    /* background-color: rgba(0, 0, 0, 0.72); */
+  filter: blur(3px); 
+
 }
 .container-fluid{
   /* width: 1900px; */
   height: 30px;
 
+}
+.aboutme{
+padding: 25px;
+display: block;
+/* text-align: center; */
+}
+.p1{
+    padding: 10px;
+    text-align: left;
+    margin-top: -257px;
+    margin-left: 227px;
+}
+
+.aboutimg{
+    /* margin-bottom: 20px; */
+    /* margin-top: 20px; */
+    border-radius: 50%;
+
+}
+.abouth1{
+    text-align: center;
+    padding: 20px;
+}
+.swatih5{
+    padding: 9px;
+    margin-left: 66px;
+}
+.htmllogo{
+    /* text-align: left; */
+    margin-left: 500px;
+    /* margin: auto; */
+    /* text-align: center; */
+    padding: 10px;
+}
+.bootimg{
+    margin: 12px;
+}
+.cssimg{
+    margin: 10px;
 }
